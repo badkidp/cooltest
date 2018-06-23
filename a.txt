@@ -1,5 +1,8 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 asdf  asdf eveafdasdf afsd asfd dsf
 =======
 asdf 
 >>>>>>> parent of d91932d... more text
+=======
+>>>>>>> parent of bd76b6d... a
