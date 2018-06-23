@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 asdf  asdf eveafdasdf afsd asfd dsf
+=======
+asdf 
+>>>>>>> parent of d91932d... more text
